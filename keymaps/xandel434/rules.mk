@@ -1,0 +1,3 @@
+MOUSEKEY_ENABLE = yes 
+CTPC = yes
+LEADER_ENABLE = yes
